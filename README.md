@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=20&lines=I'm+Fuad+Mammadov;I+learn+technical+stuffs.;)](https://github.com/fuadpro)
+
+
 ![](https://komarev.com/ghpvc/?username=fuadpro&style=flat&color=blue)
 
 ## 💻 Tech Skills
