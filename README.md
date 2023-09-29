@@ -50,6 +50,27 @@
 
 <br>
 
+ <table>
+  <tr>
+
+🏆 **my github stats:**
+
+<td valign="top"  width="60%">
+  
+  ![](https://github-readme-stats-sigma-five.vercel.app/api?username=fuadpro)
+  
+  <br>
+
+ 🐍 **Contributions**
+![](https://github.com/fuadpro/fuadpro/blob/main/github-contribution-grid-snake.svg)
+</td>
+<td valign="top"  width="40%">
+  
+  ![Anzhihe's Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fuadpro&layout=compact&hide_border=true&langs_count=10)
+  </td>
+</tr>
+</table>  
+
 
 <!-- ~ whoami
 > just another guy who likes to code -->
