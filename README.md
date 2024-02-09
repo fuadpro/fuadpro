@@ -76,4 +76,4 @@
 > just another guy who likes to code -->
 <!-- > for more information about me -> [https://mmmdv.dev](https://mmmdv.dev) -->
 
-![](https://github.com/fuadpro/fuadpro/blob/main/apifun.svg)https://github.com/fuadpro/fuadpro/blob/main/apifun.svg)
+![](https://github.com/fuadpro/fuadpro/blob/main/apifun.svg)
